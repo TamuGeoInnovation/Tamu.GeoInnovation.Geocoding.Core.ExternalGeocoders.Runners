@@ -1,0 +1,5 @@
+C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.ExternalGeocoders.Runners\build\1.0.0\debug\Tamu.GeoInnovation.Geocoding.Core.ExternalGeocoders.Runners.dll
+C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.ExternalGeocoders.Runners\build\1.0.0\debug\Tamu.GeoInnovation.Geocoding.Core.ExternalGeocoders.Runners.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.ExternalGeocoders.Runners\src\Main\obj\Debug\Geocoding.Core.ExternalGeocoders.Runners.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.ExternalGeocoders.Runners\src\Main\obj\Debug\Tamu.GeoInnovation.Geocoding.Core.ExternalGeocoders.Runners.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.ExternalGeocoders.Runners\src\Main\obj\Debug\Tamu.GeoInnovation.Geocoding.Core.ExternalGeocoders.Runners.pdb
