@@ -20,7 +20,7 @@ namespace USC.GISResearchLab.Geocoding.Core.Runners.Databases
         #region Constructors
 
         public YahooSearchApiGeocoderDatabaseRunner()
-            : base() 
+            : base()
         {
             RunnerName = "YahooSearchApi";
         }

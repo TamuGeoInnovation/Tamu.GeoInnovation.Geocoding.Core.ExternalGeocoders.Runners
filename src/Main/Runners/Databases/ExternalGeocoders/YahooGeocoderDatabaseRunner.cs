@@ -23,7 +23,7 @@ namespace USC.GISResearchLab.Geocoding.Core.Runners.Databases
         #region Constructors
 
         public YahooGeocoderDatabaseRunner()
-            : base() 
+            : base()
         {
             RunnerName = "Yahoo";
         }
@@ -80,7 +80,7 @@ namespace USC.GISResearchLab.Geocoding.Core.Runners.Databases
                 //BaseOptions baseOptions =  new BaseOptions();
                 //baseOptions.Version = args.Version;
                 //baseOptions.GeocoderConfiguration = args.GeocoderConfiguration;
-                
+
                 ExternalYahooGeocoder yahooGeocoder = new ExternalYahooGeocoder();
 
                 ret = yahooGeocoder.Geocode(streetAddress, args, GeocoderConfiguration);

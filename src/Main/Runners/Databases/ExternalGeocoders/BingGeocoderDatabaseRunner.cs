@@ -23,7 +23,7 @@ namespace USC.GISResearchLab.Geocoding.Core.Runners.Databases
         #region Constructors
 
         public BingGeocoderDatabaseRunner()
-            : base() 
+            : base()
         {
             RunnerName = "Bing";
         }

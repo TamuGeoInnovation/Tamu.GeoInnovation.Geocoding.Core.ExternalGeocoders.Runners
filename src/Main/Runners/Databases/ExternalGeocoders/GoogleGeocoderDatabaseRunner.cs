@@ -20,7 +20,7 @@ namespace USC.GISResearchLab.Geocoding.Core.Runners.Databases
         #region Constructors
 
         public GoogleGeocoderDatabaseRunner()
-            : base() 
+            : base()
         {
             RunnerName = "Google";
         }
